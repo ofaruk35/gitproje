@@ -16,6 +16,8 @@ public class Gitproje {
      */
     public static void main(String[] args) {
         System.out.print("ömer faruk");
+        System.out.print("ömer faruk içli");
+        
     }
     
 }
